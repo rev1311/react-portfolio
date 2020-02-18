@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio created with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rev1311/react-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rev1311/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/rev1311/react-portfolio#readme"
+}
