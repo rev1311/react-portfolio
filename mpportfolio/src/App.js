@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
+import Routes from './components/Routes';
 
 class App extends Component {
   render() {
@@ -24,8 +24,11 @@ class App extends Component {
                 <a href="/">Link</a>
             </Navigation>
         </Drawer>
-        <Content />
+        <Content>
+            <Routes />
+        </Content>
     </Layout>
+    
 </div>
   )}};
 export default App;
