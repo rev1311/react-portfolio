@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
 import '../App.css';
-import { faHome } from "@fortawesome/free-solid-svg-icons";
 import { faHtml5 } from "@fortawesome/free-brands-svg-icons";
 import { faCss3Alt } from "@fortawesome/free-brands-svg-icons";
 import { faJs } from "@fortawesome/free-brands-svg-icons";
@@ -20,7 +19,7 @@ class Landing extends Component {
             <div style={{ height: '90%', width: '80%', margin: 'auto', padding: '10px'}}>
                 <Grid>
                     <Cell col={12}>
-                       <div className="title">
+                       <div className="home">
                         <h1>Michael Partin</h1>
                         <h3>Napa, CA</h3>
                         <h2>Web Developer</h2>
