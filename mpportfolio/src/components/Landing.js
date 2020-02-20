@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
+import fas from 'react-fontawesome';
+import '../App.css';
 
 const style = {
     color: '#fff',
-    background: '#000',
+    background: '#666',
     padding: '10px',
     margin: '10px',
-    borderradius: '10px'
 }
 
 class Landing extends Component {
@@ -16,12 +17,11 @@ class Landing extends Component {
                 <Grid className="grid1" style={style}>
                     <Cell col={12}>row 1</Cell>
                 </Grid>
-                <Grid className="grid2" style={style}>
-                    <Cell col={4}>row 2</Cell>
-                    <Cell col={4}>row 2</Cell>
-                    <Cell col={4}>row 2</Cell>
-                </Grid>
+                <div className="title">
+                <h1>Full Stack Web Developer</h1>
+                </div> 
             </div>
+           
         )
     }
 }
