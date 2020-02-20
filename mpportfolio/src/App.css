@@ -59,3 +59,23 @@ background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
     margin: 5px;
     text-align: center;
 }
+
+.resume {
+    /* background-color: #000; */
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.projects {
+    /* background-color: #000; */
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
