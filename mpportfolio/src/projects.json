@@ -3,36 +3,48 @@
         "id": 1,
         "name": "Password Generator",
         "img": "./assets/pwgen.PNG",
-        "desc": "A clean user interface to generate complex passwords. Choose up to four character options, and between 8 and 128 character length."
+        "desc": "A clean user interface to generate complex passwords. Choose up to four character options, and between 8 and 128 character length.",
+        "git": "https://github.com/rev1311/password-generator",
+        "page": "https://rev1311.github.io/password-generator"
     },
     {
         "id": 2,
         "name": "The Watchlist",
         "img": "./assets/watchss.PNG",
-        "desc": "Search movies and add them to your watchlist. Shows where to watch, purchase or stream. Generates a map of local theaters if film is not yet released."
+        "desc": "Search movies and add them to your watchlist. Shows where to watch, purchase or stream. Generates a map of local theaters if film is not yet released.",
+        "git": "https://github.com/rev1311/The_Watchlist",
+        "page": "https://namrataffy.github.io/The_Watchlist"
     },
     {
         "id": 3,
         "name": "Memory Game",
         "img": "./assets/click.PNG",
-        "desc": "A Witcher themed memory game. Objective is to click on all twelve images without repeating an image."
+        "desc": "A Witcher themed memory game. Objective is to click on all twelve images without repeating an image.",
+        "git": "https://github.com/rev1311/click-game",
+        "page": "https://rev1311.github.io/click-game"
     },
     {
         "id": 4,
         "name": "Code Quiz",
         "img": "./assets/q1.PNG",
-        "desc": "A simple code quiz. User answers questions quickly as time runs down. Correct answers score point, incorrect costs time. Enter a high score with initals."
+        "desc": "A simple code quiz. User answers questions quickly as time runs down. Correct answers score point, incorrect costs time. Enter a high score with initals.",
+        "git": "https://github.com/rev1311/code-quiz",
+        "page": "https://rev1311.github.io/code-quiz"
     },
     {
         "id": 5,
         "name": "To-Do List",
         "img": "./assets/todo_ss.PNG",
-        "desc": "A to-do list created with React. Add notes, check them off to be strikethrough, click delete button to remove."
+        "desc": "A to-do list created with React. Add notes, check them off to be strikethrough, click delete button to remove.",
+        "git": "https://github.com/rev1311/to-do_withReact",
+        "page": "https://rev1311.github.io/to-do_withReact"
     },
     {
         "id": 6,
         "name": "Employee Management System",
         "img": "./assets/CMS_gif.GIF",
-        "desc": "A command line interface to manage employee list. Add employees, role, department, and salary. Search, update, or remove from database."
+        "desc": "A command line interface to manage employee list. Add employees, role, department, and salary. Search, update, or remove from database.",
+        "git": "https://github.com/rev1311/content_management_system",
+        "page": "https://rev1311.github.io/content_management_system"
     }
 ]
