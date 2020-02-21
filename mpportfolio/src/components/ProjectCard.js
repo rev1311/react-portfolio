@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Cell, Card, CardTitle, CardText, Button, CardActions } from 'react-mdl';
+import { Cell, Card, CardTitle, CardText, Button, CardActions } from 'react-mdl';
 import { Link } from 'react-router-dom';
 import projects from '../projects.json';
 
