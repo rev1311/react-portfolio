@@ -28,8 +28,8 @@ class ProjectCard extends Component {
                             {card.desc}
                         </CardText>
                         <CardActions border>
-                            <Button colored><Link to={card.git}>View Source</Link></Button>
-                            <Button colored><Link to={card.page}>View App</Link></Button>
+                            <Button colored><a href={card.git} target="_blank">View Source</a></Button>
+                            <Button colored><a href={card.page} target="_blank">View App</a></Button>
                         </CardActions>
                     </Card>        
                 </Cell>
