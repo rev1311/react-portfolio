@@ -9,7 +9,7 @@ class App extends Component {
   return (
 
 
-    <div style={{height: '600px', position: 'relative'}}>
+    <div style={{height: '700px', position: 'relative'}}>
     <Layout fixedHeader>
         <Header className='header-color' title={<span><span style={{ color: '#ddd' }}>Michael Partin</span></span>}>
             <Navigation>
