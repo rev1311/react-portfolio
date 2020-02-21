@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Cell } from 'react-mdl';
+import { Grid } from 'react-mdl';
 import '../App.css';
 import ProjectCard from './ProjectCard';
 
